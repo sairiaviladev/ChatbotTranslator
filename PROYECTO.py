@@ -13,7 +13,7 @@ from PRUEBA import traducir
 update_id = None
 comandoocupado = False
 
-token = "1689162984:AAGllbA0taw7xaQiKBDcNxQyCu-h0nJxY5w" 
+token = "inserta tu token aquí" 
 
 def main():
     global update_id
